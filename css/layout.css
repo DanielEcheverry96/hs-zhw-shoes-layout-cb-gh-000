@@ -32,6 +32,7 @@
   float: left;
   margin-right: 10px;
   height: auto;
+  z-index: -1;
 }
 
 .shoe{
