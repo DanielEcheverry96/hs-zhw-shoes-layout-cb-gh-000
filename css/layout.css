@@ -33,4 +33,5 @@
 .shoe{
   float: left;
   min-width: 30%;
+  visibility: hidden;
 }
